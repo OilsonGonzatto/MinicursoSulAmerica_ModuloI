@@ -1,0 +1,105 @@
+"ID","Q11","Q12","Q13","Q14","Q15","Q16","Q21","Q22","Q23","Q24A","Q24B","Q24C","Q24OUTRO","Q25","Q26","Q27","Q28","Q29","Q210A","Q210B","Q210C","Q210OUTRO","Q31","Q32","Q33","Q34","Q35","Q36","Q37","Q38","Q41","Q42","Q43A","Q43A_1","Q43B","Q43C","VALOR_PAGO"
+1,9,8,8,8,9,9,9,9,9,"compreendo",NA,NA,NA,8,8,2,7,8,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,7,7,7,7,8,"de5a10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,1696.23
+2,9,8,8,8,9,8,9,9,9,"outros meios","compreendo",NA,NA,9,8,1,8,9,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,9,5,8,9,5,"menos1ano","nenhumescritorio","bom trabalho","relatorios","tecnologia",NA,1645.38
+3,9,9,9,1,9,9,9,9,9,"compreendo",NA,NA,NA,9,1,1,9,9,"rh","fiscal","folha de pagamento",NA,9,7,7,6,6,6,7,6,"de5a10anos","1a2escritorios","bom trabalho","amizade",NA,NA,1764.92
+4,9,8,8,8,8,8,8,8,8,"tempo","nao preciso",NA,NA,7,9,8,8,8,"fiscal",NA,NA,NA,9,8,8,8,7,8,8,8,"de5a10anos","maisde5escritorios","bom trabalho","tecnologia","amizade",NA,1420.37
+5,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,7,9,9,9,"contabilidade","fiscal",NA,NA,9,9,9,9,9,9,9,9,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,1589.51
+6,9,7,8,9,9,8,7,7,6,"pouco conhecimento","outros",NA,NA,6,7,6,9,8,"contabilidade","rh","folha de pagamento",NA,8,9,9,7,6,6,9,8,"de5a10anos","1a2escritorios","bom trabalho","amizade","outro","confiabilidade",1501.49
+7,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"folha de pagamento",NA,NA,NA,9,9,9,9,9,9,9,9,"menos1ano","1a2escritorios","bom trabalho","prazo","amizade",NA,1225.61
+8,9,9,9,8,9,8,5,4,3,"tempo","pouco conhecimento","outros","dúvidas sore Imposto de Renda",9,8,1,5,4,"contabilidade","consultoria empresarial","outro",NA,9,5,8,7,8,9,9,9,"de1a3anos","1a2escritorios","bom trabalho","amizade","outro","Conhecimento dos Socios que ti",3567.27
+9,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,1,9,9,9,"de5a10anos","1a2escritorios","bom trabalho",NA,NA,NA,1649.27
+10,8,8,8,7,8,8,8,8,8,"compreendo",NA,NA,NA,7,7,2,6,8,"contabilidade","fiscal","folha de pagamento",NA,7,7,7,3,5,6,7,6,"de5a10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1699.64
+11,9,9,9,9,9,9,7,7,7,"outros",NA,NA,NA,9,9,3,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,5,9,7,1,3,9,9,"menos1ano","nenhumescritorio","bom trabalho","prazo","outro","organização",1688.07
+12,8,7,7,7,7,9,8,8,8,"tempo","nao preciso",NA,NA,7,7,7,7,7,"contabilidade","fiscal","folha de pagamento",NA,8,6,6,6,7,7,7,7,"de3a5anos","1a2escritorios","bom trabalho","relatorios",NA,NA,1677.08
+13,8,8,9,8,8,7,8,8,7,"outros meios","compreendo",NA,NA,7,7,7,8,7,"contabilidade","folha de pagamento","consultoria empresarial",NA,8,6,6,6,6,7,7,6,"maisde10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,2175.22
+14,9,9,8,8,9,9,9,7,7,"pouco conhecimento",NA,NA,NA,8,7,2,8,8,"contabilidade","rh","consultoria empresarial",NA,6,7,8,6,7,6,8,5,"de1a3anos","1a2escritorios","bom trabalho","relatorios","tecnologia",NA,2209.27
+15,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,1,9,9,"contabilidade","folha de pagamento",NA,NA,9,1,9,6,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,1372.14
+16,9,9,9,9,9,9,8,8,8,"tempo","pouco conhecimento",NA,NA,8,9,1,9,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,8,8,8,8,9,"de3a5anos","1a2escritorios","bom trabalho","prazo",NA,NA,1641.95
+17,9,9,8,8,8,8,9,9,9,"outros",NA,NA,NA,8,8,8,9,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,8,9,9,9,8,"de5a10anos","nenhumescritorio","bom trabalho",NA,NA,NA,1678.46
+18,9,9,9,9,9,9,9,9,9,"pouco conhecimento",NA,NA,NA,9,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,1,9,1,1,1,9,9,"menos1ano","nenhumescritorio","bom trabalho",NA,NA,NA,1702.45
+19,9,8,8,8,9,9,5,5,5,"outros",NA,NA,"Consultoria Contábil",8,9,7,8,9,"folha de pagamento","outro",NA,NA,5,9,9,9,1,8,9,1,"menos1ano","1a2escritorios","bom trabalho","prazo","tecnologia",NA,2761.87
+20,9,9,9,9,9,9,9,6,9,"outros meios","nao preciso","compreendo",NA,9,6,9,9,9,"contabilidade",NA,NA,NA,9,9,9,9,4,9,9,9,"menos1ano","nenhumescritorio","bom trabalho","amizade",NA,NA,1227.9
+21,8,8,7,7,7,4,9,9,8,"nao preciso","compreendo",NA,NA,9,8,1,7,8,"contabilidade",NA,NA,NA,9,9,9,7,7,7,9,9,"de3a5anos","nenhumescritorio","bom trabalho","amizade",NA,NA,1292.24
+22,9,9,9,8,8,8,8,8,8,"compreendo",NA,NA,NA,8,9,6,8,8,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,8,8,8,8,9,"de3a5anos","nenhumescritorio","bom trabalho","prazo","tecnologia",NA,1660.28
+23,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"folha de pagamento","outro",NA,NA,7,9,9,9,8,9,9,9,"maisde10anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,2740.18
+24,8,8,7,7,8,8,7,7,7,"outros",NA,NA,NA,8,8,7,8,8,"contabilidade","folha de pagamento",NA,NA,7,7,8,6,6,7,8,7,"de1a3anos","1a2escritorios","bom trabalho",NA,NA,NA,1415.36
+25,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,9,9,9,9,9,"outro",NA,NA,NA,9,9,9,9,9,9,9,9,"de5a10anos","nenhumescritorio","outro",NA,NA,NA,2650.92
+26,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,7,8,9,"fiscal","folha de pagamento",NA,NA,9,9,9,1,1,7,9,9,"de5a10anos","1a2escritorios","bom trabalho",NA,NA,NA,1567.72
+27,9,9,9,9,9,9,5,5,5,"outros",NA,NA,NA,5,5,5,5,5,"rh",NA,NA,NA,4,9,9,8,5,5,8,5,"menos1ano","1a2escritorios","bom trabalho",NA,NA,NA,1308.82
+28,9,8,6,7,7,8,8,7,7,"tempo","pouco conhecimento","outros meios",NA,6,7,4,7,7,"contabilidade","fiscal","consultoria empresarial",NA,8,6,7,6,6,6,7,5,"de3a5anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,2387.28
+29,9,9,9,9,9,5,9,9,9,"tempo","pouco conhecimento","nao preciso",NA,9,9,9,9,9,"contabilidade","fiscal","consultoria empresarial",NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","tecnologia","amizade",NA,2426.4
+30,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"rh","auditoria","folha de pagamento",NA,9,9,9,8,8,8,8,8,"menos1ano","1a2escritorios","bom trabalho","amizade",NA,NA,2231.05
+31,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,1,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,9,9,9,"de5a10anos","1a2escritorios","bom trabalho","prazo","amizade",NA,1674.69
+32,9,9,9,9,9,9,9,9,9,"tempo","pouco conhecimento","compreendo",NA,9,6,1,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,5,5,9,9,9,"maisde10anos","1a2escritorios","bom trabalho","prazo","amizade",NA,1641.9
+33,8,8,8,8,8,8,8,8,8,"compreendo",NA,NA,NA,8,5,1,8,8,"contabilidade",NA,NA,NA,8,8,8,8,8,8,8,8,"maisde10anos","1a2escritorios","bom trabalho","outro",NA,"confiança",1245.82
+34,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"contabilidade",NA,NA,NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1247.63
+35,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,8,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,5,5,8,5,5,7,7,6,"de5a10anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,1641.54
+36,9,8,8,9,9,9,9,9,9,"compreendo",NA,NA,NA,8,8,7,7,9,"contabilidade","fiscal",NA,NA,8,7,7,5,3,4,9,9,"de5a10anos","nenhumescritorio","bom trabalho",NA,NA,NA,1563.74
+37,9,7,7,7,8,8,7,6,7,"tempo","pouco conhecimento","outros meios",NA,7,6,3,5,6,"contabilidade","rh","fiscal",NA,8,7,8,6,6,6,7,5,"de3a5anos","1a2escritorios","bom trabalho","relatorios","tecnologia",NA,1761.29
+38,9,9,9,8,8,9,8,8,8,"pouco conhecimento",NA,NA,NA,8,8,8,8,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,8,9,6,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,1681.12
+39,9,9,9,9,9,5,9,9,9,"tempo","pouco conhecimento","nao preciso",NA,9,9,9,9,9,"contabilidade","fiscal","consultoria empresarial",NA,9,8,8,7,7,7,7,8,"de5a10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,2407.3
+40,9,8,8,8,9,8,9,9,9,"outros meios","compreendo",NA,NA,9,8,1,8,9,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,9,5,8,9,5,"menos1ano","nenhumescritorio","bom trabalho","relatorios","tecnologia",NA,1644.27
+41,9,9,8,8,8,8,9,9,9,"outros",NA,NA,NA,8,8,8,9,8,"contabilidade","fiscal","folha de pagamento",NA,9,7,7,6,6,6,7,6,"de5a10anos","1a2escritorios","bom trabalho","amizade",NA,NA,1700.99
+42,9,8,8,8,9,9,9,9,9,"compreendo",NA,NA,NA,8,8,2,7,8,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,8,7,8,8,8,"de5a10anos","maisde5escritorios","bom trabalho","tecnologia","amizade",NA,1620.38
+43,9,8,8,9,9,9,9,9,9,"compreendo",NA,NA,NA,8,8,7,7,9,"contabilidade","fiscal",NA,NA,9,9,9,9,9,9,9,9,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,1628.31
+44,9,9,9,1,9,9,9,9,9,"compreendo",NA,NA,NA,9,1,1,9,9,"rh","fiscal","folha de pagamento",NA,8,9,9,7,6,6,9,8,"de5a10anos","1a2escritorios","bom trabalho","amizade","outro","confiabilidade",1730.32
+45,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,7,9,9,9,"contabilidade","fiscal",NA,NA,9,9,9,9,9,9,9,9,"menos1ano","1a2escritorios","bom trabalho","prazo","amizade",NA,1605.81
+46,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"folha de pagamento",NA,NA,NA,9,5,8,7,8,9,9,9,"de1a3anos","1a2escritorios","bom trabalho","amizade","outro","Conhecimento dos Socios que ti",1195.67
+47,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,1,9,9,9,"de5a10anos","1a2escritorios","bom trabalho",NA,NA,NA,1618.65
+48,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,1,9,9,"contabilidade","folha de pagamento",NA,NA,7,7,7,3,5,6,7,6,"de5a10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1334.61
+49,9,9,9,9,9,9,9,9,9,"pouco conhecimento",NA,NA,NA,9,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,5,9,7,1,3,9,9,"menos1ano","nenhumescritorio","bom trabalho","prazo","outro","organização",1646.92
+50,9,9,9,9,9,9,9,6,9,"outros meios","nao preciso","compreendo",NA,9,6,9,9,9,"contabilidade",NA,NA,NA,8,6,6,6,7,7,7,7,"de3a5anos","1a2escritorios","bom trabalho","relatorios",NA,NA,1252.74
+51,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"folha de pagamento","outro",NA,NA,8,6,6,6,6,7,7,6,"maisde10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,2732.31
+52,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,9,9,9,9,9,"outro",NA,NA,NA,6,7,8,6,7,6,8,5,"de1a3anos","1a2escritorios","bom trabalho","relatorios","tecnologia",NA,2673.86
+53,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,7,8,9,"fiscal","folha de pagamento",NA,NA,9,1,9,6,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,1581.77
+54,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"rh","auditoria","folha de pagamento",NA,9,9,9,8,8,8,8,9,"de3a5anos","1a2escritorios","bom trabalho","prazo",NA,NA,2247.17
+55,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,1,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,8,9,9,9,8,"de5a10anos","nenhumescritorio","bom trabalho",NA,NA,NA,1644.79
+56,9,9,9,9,9,9,9,9,9,"tempo","pouco conhecimento","compreendo",NA,9,6,1,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,1,9,1,1,1,9,9,"menos1ano","nenhumescritorio","bom trabalho",NA,NA,NA,1661.41
+57,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"contabilidade",NA,NA,NA,5,9,9,9,1,8,9,1,"menos1ano","1a2escritorios","bom trabalho","prazo","tecnologia",NA,1342.01
+58,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,8,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,4,9,9,9,"menos1ano","nenhumescritorio","bom trabalho","amizade",NA,NA,1721.61
+59,8,8,7,7,7,4,9,9,8,"nao preciso","compreendo",NA,NA,9,8,1,7,8,"contabilidade",NA,NA,NA,9,9,9,7,7,7,9,9,"de3a5anos","nenhumescritorio","bom trabalho","amizade",NA,NA,1317.99
+60,9,8,8,8,8,8,8,8,8,"tempo","nao preciso",NA,NA,7,9,8,8,8,"fiscal",NA,NA,NA,9,8,8,8,8,8,8,9,"de3a5anos","nenhumescritorio","bom trabalho","prazo","tecnologia",NA,1460.67
+61,8,8,8,7,8,8,8,8,8,"compreendo",NA,NA,NA,7,7,2,6,8,"contabilidade","fiscal","folha de pagamento",NA,7,9,9,9,8,9,9,9,"maisde10anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,1696.53
+62,8,8,8,8,8,8,8,8,8,"compreendo",NA,NA,NA,8,5,1,8,8,"contabilidade",NA,NA,NA,7,7,8,6,6,7,8,7,"de1a3anos","1a2escritorios","bom trabalho",NA,NA,NA,1258.54
+63,9,9,9,8,8,8,8,8,8,"compreendo",NA,NA,NA,8,9,6,8,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,9,9,9,"de5a10anos","nenhumescritorio","outro",NA,NA,NA,1674.53
+64,8,7,7,7,7,9,8,8,8,"tempo","nao preciso",NA,NA,7,7,7,7,7,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,1,1,7,9,9,"de5a10anos","1a2escritorios","bom trabalho",NA,NA,NA,1653.27
+65,9,9,9,9,9,9,8,8,8,"tempo","pouco conhecimento",NA,NA,8,9,1,9,8,"contabilidade","fiscal","folha de pagamento",NA,4,9,9,8,5,5,8,5,"menos1ano","1a2escritorios","bom trabalho",NA,NA,NA,1646.12
+66,9,9,9,8,8,9,8,8,8,"pouco conhecimento",NA,NA,NA,8,8,8,8,8,"contabilidade","fiscal","folha de pagamento",NA,8,6,7,6,6,6,7,5,"de3a5anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,1650.66
+67,8,8,9,8,8,7,8,8,7,"outros meios","compreendo",NA,NA,7,7,7,8,7,"contabilidade","folha de pagamento","consultoria empresarial",NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","tecnologia","amizade",NA,2131.18
+68,9,8,6,7,7,8,8,7,7,"tempo","pouco conhecimento","outros meios",NA,6,7,4,7,7,"contabilidade","fiscal","consultoria empresarial",NA,9,9,9,8,8,8,8,8,"menos1ano","1a2escritorios","bom trabalho","amizade",NA,NA,2366.11
+69,8,8,7,7,8,8,7,7,7,"outros",NA,NA,NA,8,8,7,8,8,"contabilidade","folha de pagamento",NA,NA,9,9,9,9,9,9,9,9,"de5a10anos","1a2escritorios","bom trabalho","prazo","amizade",NA,1318.83
+70,9,7,7,7,8,8,7,6,7,"tempo","pouco conhecimento","outros meios",NA,7,6,3,5,6,"contabilidade","rh","fiscal",NA,9,9,9,5,5,9,9,9,"maisde10anos","1a2escritorios","bom trabalho","prazo","amizade",NA,1729.31
+71,9,9,8,8,9,9,9,7,7,"pouco conhecimento",NA,NA,NA,8,7,2,8,8,"contabilidade","rh","consultoria empresarial",NA,8,8,8,8,8,8,8,8,"maisde10anos","1a2escritorios","bom trabalho","outro",NA,"CONFIANÇA",2223.99
+72,9,9,9,9,9,9,7,7,7,"outros",NA,NA,NA,9,9,3,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1651.54
+73,9,7,8,9,9,8,7,7,6,"pouco conhecimento","outros",NA,NA,6,7,6,9,8,"contabilidade","rh","folha de pagamento",NA,5,5,8,5,5,7,7,6,"de5a10anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,1521.81
+74,9,8,8,8,9,9,5,5,5,"outros",NA,NA,"Consultoria Contábil",8,9,7,8,9,"folha de pagamento","outro",NA,NA,8,7,7,5,3,4,9,9,"de5a10anos","nenhumescritorio","bom trabalho",NA,NA,NA,2748.07
+75,9,9,9,9,9,9,5,5,5,"outros",NA,NA,NA,5,5,5,5,5,"rh",NA,NA,NA,8,7,8,6,6,6,7,5,"de3a5anos","1a2escritorios","bom trabalho","relatorios","tecnologia",NA,1340.98
+76,9,9,9,8,9,8,5,4,3,"tempo","pouco conhecimento","outros","dúvidas sore Imposto de Renda",9,8,1,5,4,"contabilidade","consultoria empresarial","outro",NA,9,9,9,9,9,8,9,6,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,3532.6
+77,9,8,8,8,8,8,8,8,8,"tempo","nao preciso",NA,NA,7,9,8,8,8,"fiscal",NA,NA,NA,9,8,8,8,7,8,8,8,"de5a10anos","maisde5escritorios","bom trabalho","tecnologia","amizade",NA,1465.85
+78,9,9,8,8,9,9,9,7,7,"pouco conhecimento",NA,NA,NA,8,7,2,8,8,"contabilidade","rh","consultoria empresarial",NA,6,7,8,6,7,6,8,5,"de1a3anos","1a2escritorios","bom trabalho","relatorios","tecnologia",NA,2193.54
+79,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"contabilidade",NA,NA,NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1258.85
+80,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,8,9,9,9,9,"contabilidade","fiscal","folha de pagamento",NA,5,5,8,5,5,7,7,6,"de5a10anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,1693.49
+81,8,8,7,7,7,4,9,9,8,"nao preciso","compreendo",NA,NA,9,8,1,7,8,"contabilidade",NA,NA,NA,9,9,9,7,7,7,9,9,"de3a5anos","nenhumescritorio","bom trabalho","amizade",NA,NA,1257.53
+82,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,7,9,9,9,"contabilidade","fiscal",NA,NA,9,9,9,9,9,9,9,9,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,1540.78
+83,9,9,9,9,9,9,9,9,9,"outros",NA,NA,NA,9,9,9,9,9,"outro",NA,NA,NA,9,9,9,9,9,9,9,9,"de5a10anos","nenhumescritorio","outro",NA,NA,NA,2662.41
+84,9,8,6,7,7,8,8,7,7,"tempo","pouco conhecimento","outros meios",NA,6,7,4,7,7,"contabilidade","fiscal","consultoria empresarial",NA,8,6,7,6,6,6,7,5,"de3a5anos","1a2escritorios","bom trabalho","tecnologia","amizade",NA,2432.56
+85,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,9,9,9,"rh","auditoria","folha de pagamento",NA,9,9,9,8,8,8,8,8,"menos1ano","1a2escritorios","bom trabalho","amizade",NA,NA,2248.18
+86,9,9,9,8,9,8,5,4,3,"tempo","pouco conhecimento","outros","dúvidas sore Imposto de Renda",9,8,1,5,4,"contabilidade","consultoria empresarial","outro",NA,9,5,8,7,8,9,9,9,"de1a3anos","1a2escritorios","bom trabalho","amizade","outro","Conhecimento dos Socios que ti",3556.4
+87,9,9,9,9,9,9,5,5,5,"outros",NA,NA,NA,5,5,5,5,5,"rh",NA,NA,NA,4,9,9,8,5,5,8,5,"menos1ano","1a2escritorios","bom trabalho",NA,NA,NA,1267.63
+88,8,8,7,7,8,8,7,7,7,"outros",NA,NA,NA,8,8,7,8,8,"contabilidade","folha de pagamento",NA,NA,7,7,8,6,6,7,8,7,"de1a3anos","1a2escritorios","bom trabalho",NA,NA,NA,1312.21
+89,8,7,7,7,7,9,8,8,8,"tempo","nao preciso",NA,NA,7,7,7,7,7,"contabilidade","fiscal","folha de pagamento",NA,8,6,6,6,7,7,7,7,"de3a5anos","1a2escritorios","bom trabalho","relatorios",NA,NA,1643.1
+90,9,9,9,8,8,9,8,8,8,"pouco conhecimento",NA,NA,NA,8,8,8,8,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,8,9,6,"de3a5anos","1a2escritorios","bom trabalho",NA,NA,NA,1657.84
+91,9,8,8,8,9,9,5,5,5,"outros",NA,NA,"Consultoria Contábil",8,9,7,8,9,"folha de pagamento","outro",NA,NA,5,9,9,9,1,8,9,1,"menos1ano","1a2escritorios","bom trabalho","prazo","tecnologia",NA,2717.72
+92,9,9,9,9,9,9,9,6,9,"outros meios","nao preciso","compreendo",NA,9,6,9,9,9,"contabilidade",NA,NA,NA,9,9,9,9,4,9,9,9,"menos1ano","nenhumescritorio","bom trabalho","amizade",NA,NA,1275.03
+93,9,9,8,8,8,8,9,9,9,"outros",NA,NA,NA,8,8,8,9,8,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,8,9,9,9,8,"de5a10anos","nenhumescritorio","bom trabalho",NA,NA,NA,1684.98
+94,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,7,8,9,"fiscal","folha de pagamento",NA,NA,9,9,9,1,1,7,9,9,"de5a10anos","1a2escritorios","bom trabalho",NA,NA,NA,1558.59
+95,9,8,8,8,9,9,9,9,9,"compreendo",NA,NA,NA,8,8,2,7,8,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,7,7,7,7,8,"de5a10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,1678.55
+96,9,9,9,1,9,9,9,9,9,"compreendo",NA,NA,NA,9,1,1,9,9,"rh","fiscal","folha de pagamento",NA,9,7,7,6,6,6,7,6,"de5a10anos","1a2escritorios","bom trabalho","amizade",NA,NA,1674.54
+97,9,7,8,9,9,8,7,7,6,"pouco conhecimento","outros",NA,NA,6,7,6,9,8,"contabilidade","rh","folha de pagamento",NA,8,9,9,7,6,6,9,8,"de5a10anos","1a2escritorios","bom trabalho","amizade","outro","confiabilidade",1521.58
+98,9,9,9,9,9,9,9,9,9,"compreendo",NA,NA,NA,9,9,1,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,9,9,9,9,9,9,9,"de5a10anos","1a2escritorios","bom trabalho","prazo","amizade",NA,1676.15
+99,8,8,8,7,8,8,8,8,8,"compreendo",NA,NA,NA,7,7,2,6,8,"contabilidade","fiscal","folha de pagamento",NA,7,7,7,3,5,6,7,6,"de5a10anos","nenhumescritorio","bom trabalho","relatorios","amizade",NA,1687.44
+100,9,9,9,9,9,9,7,7,7,"outros",NA,NA,NA,9,9,3,9,9,"contabilidade","fiscal","folha de pagamento",NA,9,5,9,7,1,3,9,9,"menos1ano","nenhumescritorio","bom trabalho","prazo","outro","organização",1686.24
+101,8,8,9,8,8,7,8,8,7,"outros meios","compreendo",NA,NA,7,7,7,8,7,"contabilidade","folha de pagamento","consultoria empresarial",NA,8,6,6,6,6,7,7,6,"maisde10anos","nenhumescritorio","bom trabalho","prazo","amizade",NA,2158.18
+102,9,8,8,8,9,8,9,9,9,"outros meios","compreendo",NA,NA,9,8,1,8,9,"contabilidade","fiscal","folha de pagamento",NA,9,8,8,9,5,8,9,5,"menos1ano","nenhumescritorio","bom trabalho","relatorios","tecnologia",NA,1675.91
+103,9,9,9,9,9,5,9,9,9,"tempo","pouco conhecimento","nao preciso",NA,9,9,9,9,9,"contabilidade","fiscal","consultoria empresarial",NA,9,9,9,9,9,9,9,9,"maisde10anos","nenhumescritorio","bom trabalho","tecnologia","amizade",NA,2359.9
+104,8,8,7,7,7,4,9,9,8,"nao preciso","compreendo",NA,NA,9,8,1,7,8,"contabilidade",NA,NA,NA,9,9,9,7,7,7,9,9,"de3a5anos","nenhumescritorio","bom trabalho","amizade",NA,NA,1285.72
